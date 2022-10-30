@@ -1,4 +1,4 @@
-# Uncertainty-in-Neural-Networks
+# Uncertainty in Neural Networks
 
 In this repo I have 2 Epistemic Uncertainty (Model Uncertainty) Quantification methods: Dropout and Deep Ensemble.
 
